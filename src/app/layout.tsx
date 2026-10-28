@@ -21,13 +21,13 @@ export default function RootLayout({
             <h1 className="text-4xl font-bold mb-4">Pokémon TCG Explorer</h1>
             <p className="text-lg">Descubra cartas e detalhes de Pokémon</p>
           </header>
-          
+
           <main className="mt-8">
             {children}
           </main>
-          
+
           <footer className="text-center mt-12 text-gray-600">
-            <p>Júlio César Iwata - RM XXXXX © 2026 Pokémon TCG Explorer</p>
+            <p> 2026 Pokémon TCG Explorer</p>
           </footer>
         </div>
       </body>
