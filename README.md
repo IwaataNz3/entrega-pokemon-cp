@@ -3,6 +3,7 @@
 Checkpoint de Next.js da FIAP. O usuário faz login, busca cartas na API do Pokémon TCG e salva suas cartas favoritas no navegador.
 
 **Link da aplicação:** 
+https://github.com/IwaataNz3/entrega-pokemon-cp
 https://entrega-pokemon-cp.vercel.app
 
 ## Autores
